@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test1",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest pyarmor",
       "run": "pytest",
       "input": "",
       "output": "",
