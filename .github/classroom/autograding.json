@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test1",
-      "setup": "sudo -H pip3 install pytest setuptools pyarmor pytransform ",
+      "setup": "sudo -H pip3 install pytest setuptools pyarmor ",
       "run": "pytest",
       "input": "",
       "output": "",
